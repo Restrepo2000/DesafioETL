@@ -1,0 +1,6 @@
+id,nome,sobrenome,idade,email,compras
+1,Joao,Silva,30,joao.silva@example.com,8
+2,Maria,Santos,28,maria.santos@example.com,15
+3,Carlos,Almeida,35,carlos.almeida@example.com,11
+4,Ana,Rocha,22,ana.rocha@example.com,14
+5,Pedro,Alves,40,pedro.alves@example.com,7
